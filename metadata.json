@@ -1,0 +1,7 @@
+{
+  "name": "Le Voyage de Moha et Manele",
+  "description": "A revolutionary flight search platform with virtual interlining, happiness scores, and AI-powered travel assistance.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
